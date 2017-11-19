@@ -1,0 +1,13 @@
+.product{
+
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px;
+
+  .product__image > img{
+    width: 200px;
+    height: 200px;
+  }
+
+}
