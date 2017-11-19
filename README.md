@@ -1,4 +1,6 @@
-# ShoppingCart
+# Shopping Cart
+
+Shopping cart using Angular 4
 
 ## Dependencies
 
